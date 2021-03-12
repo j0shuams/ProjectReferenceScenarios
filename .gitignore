@@ -1,6 +1,7 @@
 **/bin
 **/obj
 **/Generated Files
+**/x64
 
 # Prerequisites
 *.d
